@@ -19,6 +19,7 @@ A production-ready machine learning project for predicting house prices using re
 - [Future Improvements](#future-improvements)
 - [License](#license)
 
+## 🎯 Overview
 
 This project implements a complete machine learning pipeline for the [Kaggle House Prices: Advanced Regression Techniques](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/) competition. It includes:
 
